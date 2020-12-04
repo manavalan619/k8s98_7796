@@ -1,0 +1,7 @@
+{
+  "name": "k8s98",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
